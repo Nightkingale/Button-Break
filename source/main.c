@@ -70,8 +70,8 @@ int main()
     VPADReadError error;
     // Print the console header.
     WHBLogConsoleSetColor(0x000000);
-    WHBLogPrint("Button Break (v1.0.0)");
-    WHBLogPrint("Created by NoahAbc12345");
+    WHBLogPrint("Button Break (v1.0.1)");
+    WHBLogPrint("Created by Nightkingale");
     WHBLogPrint("----------------------------------------");
     WHBLogConsoleDraw();
 
