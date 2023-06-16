@@ -52,5 +52,7 @@ Mkfile.old
 dkms.conf
 
 # Other files
+*.wuhb
 *.lst
 *.rpx
+*.wps
