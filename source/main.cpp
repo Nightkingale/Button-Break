@@ -1,9 +1,6 @@
-#include <malloc.h>
 #include <stdbool.h>
-#include <stdint.h>
 #include <string.h>
 
-#include <coreinit/thread.h>
 #include <coreinit/time.h>
 #include <vpad/input.h>
 #include <whb/log_console.h>
